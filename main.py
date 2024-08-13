@@ -1,9 +1,5 @@
+def suma(a, b):
+    return a + b
 
-def suma(a,b):
-    suma= a + b
-    print(suma)
-
-
-
-    
-    
+if __name__ == '__main__':
+    print(suma(1, 2))
